@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GeoData</string>
+
+    <string name="btn_busca">Listar</string>
+
+    <string name="hintContinente">Continente</string>
+
+</resources>
